@@ -24,7 +24,7 @@ Personal Interests: Passionate about **Data Analytics**, turning raw data into m
 
 ✔ Automation & Web Scraping: Selenium, BeautifulSoup
 
-✔ Other Tools: Streamlit, Git, VS Code
+✔ Other Tools: Streamlit, Git, Jupyter Notebook
 
 📚 Continuous Learning: Currently exploring Machine Learning to refine predictive modeling and automation skills.
 
@@ -36,9 +36,10 @@ Personal Interests: Passionate about **Data Analytics**, turning raw data into m
 
 ## *📈 Key Achievements*
 
-Power BI Dashboard Development: Created dynamic and industry-specific dashboards to enhance data visualization and decision-making.
+- ✅ Built real-world dashboards that communicate complex data clearly
+- ✅ Integrated SQL databases with Power BI for scalable analysis
+- ✅ Completed individual and team-based data projects from end to end
 
-Web Scraping Automation: Developed efficient web scraping solutions using Selenium and BeautifulSoup to automate data collection.
 
 ---
 
@@ -58,7 +59,8 @@ Let me know if you’d like a different tone! 😊
 
 ---
 
-Thanks for visiting my profile!
+> “Data is the new oil. Let’s refine it together.” 🔍  
+Thanks for stopping by! Let’s collaborate on something amazing. 🚀
 <!--
 **Aditya0305030/Aditya0305030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
