@@ -50,17 +50,12 @@ Personal Interests: Passionate about **Data Analytics**, turning raw data into m
 ---
 
 
-
-## 🚀 *Let’s Build Together!*
-
+ “Data is the new oil. Let’s refine it together.” 🔍  
+Thanks for visiting! I'm always open to collaboration—let’s create something amazing together. 🚀
 I love solving problems through data analysis, interactive dashboards, and machine learning. Excited to collaborate and create data-driven solutions!
-
-Let me know if you’d like a different tone! 😊  
 
 ---
 
-> “Data is the new oil. Let’s refine it together.” 🔍  
-Thanks for visiting! I'm always open to collaboration—let’s create something amazing together. 🚀
 <!--
 **Aditya0305030/Aditya0305030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
